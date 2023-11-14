@@ -1,0 +1,12 @@
+:root {
+    $cor3: #c6538c;
+    $cor4: #9e2763;
+}
+
+$cor1: #c6538c;
+$cor2: #9e2763;
+$border-dark: rgba($cor1, 0.88);
+
+.alert {
+    border: 1px solid $border-dark;
+}
